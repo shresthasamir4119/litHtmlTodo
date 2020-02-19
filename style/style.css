@@ -1,0 +1,11 @@
+*{
+	background: #eee;
+}
+.todo{
+	max-width: 500px;
+	/*text-align: center;*/
+	background: #ddd;
+	margin: auto;
+	border: solid 1px black;
+	/*overflow: hidden;*/
+}
